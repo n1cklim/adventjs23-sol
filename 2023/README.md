@@ -4,6 +4,7 @@ Puedes enviar la solución tantas veces como quieras... por intentarlo no pierde
 
 <details>
   <summary>📚 INSTRUCCIONES DEL EJERCICIO</summary>
+
 En la fábrica de juguetes del Polo Norte, cada juguete tiene un número de identificación único.
 Sin embargo, debido a un error en la máquina de juguetes, algunos números se han asignado a más de un juguete.
 ¡Encuentra el primer número de identificación que se ha repetido, donde la segunda ocurrencia tenga el índice más pequeño!
@@ -26,10 +27,11 @@ const firstRepeatedId3 = findFirstRepeated(giftIds3)
 console.log(firstRepeatedId3) //
 ````
 </details>
-j
+
 <details>
   <summary>📕SOLUCIÓN + EXPLICACIÓN</summary>
-Como ha exxplicado Midu en directo, esta solución es una de las más acertadas (hay muchas soluciones), y el resultado puede variar.
+
+Como ha exxplicado Midu en directo, esta solución es una de las más acertadas (hay más soluciones), y el resultado puede variar.
 
 ```js
 function findFirstRepeated(gifts) {
