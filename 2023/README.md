@@ -31,7 +31,7 @@ console.log(firstRepeatedId3) //
 <details>
   <summary>📕SOLUCIÓN + EXPLICACIÓN</summary>
 
-Como ha exxplicado Midu en directo, esta solución es una de las más acertadas (hay más soluciones), y el resultado puede variar.
+Como ha explicado Midu en directo, esta solución es una de las más acertadas (hay más soluciones), y el resultado puede variar.
 
 ```js
 function findFirstRepeated(gifts) {
