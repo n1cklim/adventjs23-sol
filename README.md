@@ -1,8 +1,8 @@
 # Solucionario del AdventJS 2023  🎄✨
 Solución los ejercicios propuestos en el adventjs de @midudev.
 
-Sé que hay muchos repositorios de este estilo, pero me gustaría aportar mi granito de arena haciendo uno yo también. Achalogy
-Espero que de alguna manera o otra, llegue a Miguel.
+Sé que hay muchos repositorios de este estilo, pero me gustaría aportar mi granito de arena haciendo uno yo también.
+Espero que de alguna manera o otra, llegue a Miguel. @Achalogy me ha inspirado a hacerlo
 
 | Imagen   | Nº       | Reto     | Dificultad | Solución + Explicación |
 |----------|----------|----------|------------|------------------------|
