@@ -6,5 +6,5 @@ Espero que de alguna manera o otra, llegue a Miguel. @Achalogy me ha inspirado a
 
 | Imagen   | Nº       | Reto     | Dificultad | Solución + Explicación |
 |----------|----------|----------|------------|------------------------|
-| <img src="https://adventjs.dev/challenges-2023/1.png" width="50" style="object-fit: contain;" />   | 01   |🎁 [¡Primer regalo repartido!](https://adventjs.dev/es/challenges/2023/1) |🟢 | [SOLUCIÓN](2023/README.md)  |
-| <img src="https://adventjs.dev/challenges-2023/2.png" width="50" style="object-fit: contain;" />   | 02   |🏭 [Ponemos en marcha la fábrica](https://adventjs.dev/es/challenges/2023/2) |🟢 | SOLUCIÓN (no disponible)|
+| <img src="https://adventjs.dev/challenges-2023/1.png" width="50" style="object-fit: contain;" />   | 01   |🎁 [¡Primer regalo repartido!](https://adventjs.dev/es/challenges/2023/1) |🟢 | [SOLUCIÓN](2023/01/README.md)  |
+| <img src="https://adventjs.dev/challenges-2023/2.png" width="50" style="object-fit: contain;" />   | 02   |🏭 [Ponemos en marcha la fábrica](https://adventjs.dev/es/challenges/2023/2) |🟢 | [SOLUCIÓN](2023/02/README.md)|
