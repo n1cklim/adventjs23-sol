@@ -6,4 +6,4 @@ Espero que de alguna manera o otra, llegue a Miguel.
 
 | Imagen   | Nº       | Reto     | Dificultad | Solución + Explicación |
 |----------|----------|----------|------------|------------------------|
-| <img src="https://adventjs.dev/challenges-2023/1.png" width="50" style="object-fit: contain;" />   | 01   |🎁 [¡Primer regalo repartido!](https://adventjs.dev/es/challenges/2023/1) |🟢 | [SOLUCIÓN](ruta)
+| <img src="https://adventjs.dev/challenges-2023/1.png" width="50" style="object-fit: contain;" />   | 01   |🎁 [¡Primer regalo repartido!](https://adventjs.dev/es/challenges/2023/1) |🟢 | [SOLUCIÓN](2023/README.md)
