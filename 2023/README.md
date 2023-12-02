@@ -3,7 +3,7 @@ Recuerda que antes de ver la solución debes intentar resolver el ejercicio por 
 Puedes enviar la solución tantas veces como quieras... por intentarlo no pierdes nada 🤷‍♂️
 
 <details>
-  <summary>INSTRUCCIONES DEL EJERCICIO</summary>
+  <summary>📚 INSTRUCCIONES DEL EJERCICIO</summary>
 En la fábrica de juguetes del Polo Norte, cada juguete tiene un número de identificación único.
 Sin embargo, debido a un error en la máquina de juguetes, algunos números se han asignado a más de un juguete.
 ¡Encuentra el primer número de identificación que se ha repetido, donde la segunda ocurrencia tenga el índice más pequeño!
@@ -23,6 +23,31 @@ console.log(firstRepeatedId2) // -1
 
 const giftIds3 = [5, 1, 5, 1]
 const firstRepeatedId3 = findFirstRepeated(giftIds3)
-console.log(firstRepeatedId3) // 5
-```
+console.log(firstRepeatedId3) //
+````
 </details>
+j
+<details>
+  <summary>📕SOLUCIÓN + EXPLICACIÓN</summary>
+Como ha exxplicado Midu en directo, esta solución es una de las más acertadas (hay muchas soluciones), y el resultado puede variar.
+
+```js
+function findFirstRepeated(gifts) {
+  const uniqueGifts = new Set();
+
+  for (const id of gifts) {
+    if (uniqueGifts.has(id)) { return id; }
+    uniqueGifts.add(id);
+  }
+  return -1
+}
+```
+1. Definimos la función (findFirstRepeated), tomando el parámetro (gifts)
+2. Creamos un Set para almacenar los regalos únicos que se han encontrado. (Se podría haber usado también un Map)
+3. Luego creamos un bucle del tipo for ... of
+4. Por último, ponemos el `return -1`, ya que es lo que devuelve si no se ha encontrado uno.
+</details>
+
+Esperad que al principio mis explicaciones puedan ser un poco simples y poco trabajadas, pero... Tengo 25 días más para trabajar y progresar. Al fin y al cabo, esto que estoy haciendo te está ayudando tanto a ti como a mi.
+
+
