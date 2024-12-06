@@ -8,3 +8,5 @@ Espero que de alguna manera o otra, llegue a Miguel. @Achalogy me ha inspirado a
 |----------|----------|----------|------------|------------------------|
 | <img src="https://adventjs.dev/challenges-2023/1.png" width="50" style="object-fit: contain;" />   | 01   |🎁 [¡Primer regalo repartido!](https://adventjs.dev/es/challenges/2023/1) |🟢 | [SOLUCIÓN](2023/01/README.md)  |
 | <img src="https://adventjs.dev/challenges-2023/2.png" width="50" style="object-fit: contain;" />   | 02   |🏭 [Ponemos en marcha la fábrica](https://adventjs.dev/es/challenges/2023/2) |🟢 | [SOLUCIÓN](2023/02/README.md)|
+
+(a 06/122/2024, no llegué a subir las soluciones del 2023)
